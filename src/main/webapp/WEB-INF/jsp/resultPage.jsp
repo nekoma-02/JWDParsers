@@ -41,5 +41,8 @@
 			</table>
 		</div>
 	</c:if>
+	<c:if test="${empty application}">
+	<h1>${error_message}</h1>
+	</c:if>
 </body>
 </html>

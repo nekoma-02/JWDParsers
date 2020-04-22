@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
-<ap:applications
-	xmlns:ap="http://www.epamrd.org/Applications"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.epam.org/applications applications.xsd">
+<applications xmlns="http://www.epamrd.org/Applications">
 
 	<application id="1">
-			<name>Alex Novikov</name>
-			<email>aki@gmail.com</email>
-			<privelege>invalid</privelege>
-			<school>124</school>
-			<specialty>Техник программист</specialty>
+		<name>Alex Novikov</name>
+		<email>aki@gmail.com</email>
+		<privelege>invalid</privelege>
+		<school>124</school>
+		<specialty>Техник программист</specialty>
+	</application>
+	<application id="2">
+		<name>Zhenya Chap</name>
+		<email>zeka@gmail.com</email>
+		<privelege>invalid</privelege>
+		<school>124</school>
+		<specialty>Инженер программист</specialty>
+	</application>
+	<application id="3">
+		<name>Alex Kovila</name>
+		<email>alex@gmail.com</email>
+		<privelege>patriot</privelege>
+		<school>136</school>
+		<specialty>Техник программист</specialty>
 	</application>
 
 
-</ap:applications>
+</applications>
