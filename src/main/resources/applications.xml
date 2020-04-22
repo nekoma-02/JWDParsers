@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<ap:applications
+	xmlns:ap="http://www.epamrd.org/Applications"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.epam.org/applications applications.xsd">
+
+	<application id="1">
+			<name>Alex Novikov</name>
+			<email>aki@gmail.com</email>
+			<privelege>invalid</privelege>
+			<school>124</school>
+			<specialty>Техник программист</specialty>
+	</application>
+
+
+</ap:applications>
