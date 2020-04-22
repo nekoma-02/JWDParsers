@@ -1,6 +1,11 @@
 package by.epam.tc.entity;
 
-public class Application {
+import java.io.Serializable;
+
+public class Application implements Serializable {
+
+	private static final long serialVersionUID = -69858447082765604L;
+	
 	private int id;
 	private String name;
 	private String email;
